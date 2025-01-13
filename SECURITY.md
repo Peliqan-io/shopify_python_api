@@ -4,7 +4,7 @@
 
 ### New features
 
-New features will only be added to the main branch and will not be made available in point releases.
+New features will only be added to the master branch and will not be made available in point releases.
 
 ### Bug fixes
 
@@ -52,7 +52,7 @@ We look forward to working with all security researchers and strive to be respec
 - You must report any discovered vulnerability to Shopify as soon as you have validated the vulnerability.
 - Failure to follow any of the foregoing rules will disqualify you from participating in this program.
 
-** Please see our [Hackerone Profile](https://hackerone.com/shopify) for full details
+\*\* Please see our [Hackerone Profile](https://hackerone.com/shopify) for full details
 
 ## Receiving Security Updates
 
